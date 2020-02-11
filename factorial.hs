@@ -1,3 +1,4 @@
+#! /usr/bin/env runhaskell
 import Control.Arrow
 
 factorial :: (Eq p, Num p) => p -> p

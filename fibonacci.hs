@@ -1,3 +1,4 @@
+#! /usr/bin/env runhaskell
 import Data.Function
 import Control.Arrow
 
